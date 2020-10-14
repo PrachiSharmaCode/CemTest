@@ -1,7 +1,7 @@
 {
   "name": "testcem",
   "version": "0.1.0",
-  "homepage": "https://prachisharmacode.github.io/CemTest/",
+  "homepage": "https://prachisharmacode.github.io/CemTest",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.15.1",
