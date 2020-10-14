@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/PrachiSharmaCode/CemTest/static/css/main.e0147863.chunk.css",
+    "main.js": "/PrachiSharmaCode/CemTest/static/js/main.aae7d0ab.chunk.js",
+    "main.js.map": "/PrachiSharmaCode/CemTest/static/js/main.aae7d0ab.chunk.js.map",
+    "runtime-main.js": "/PrachiSharmaCode/CemTest/static/js/runtime-main.3eef7d7c.js",
+    "runtime-main.js.map": "/PrachiSharmaCode/CemTest/static/js/runtime-main.3eef7d7c.js.map",
+    "static/css/2.2a86faee.chunk.css": "/PrachiSharmaCode/CemTest/static/css/2.2a86faee.chunk.css",
+    "static/js/2.ed23f824.chunk.js": "/PrachiSharmaCode/CemTest/static/js/2.ed23f824.chunk.js",
+    "static/js/2.ed23f824.chunk.js.map": "/PrachiSharmaCode/CemTest/static/js/2.ed23f824.chunk.js.map",
+    "index.html": "/PrachiSharmaCode/CemTest/index.html",
+    "precache-manifest.27adcd36c7bed477d1b88973420366d3.js": "/PrachiSharmaCode/CemTest/precache-manifest.27adcd36c7bed477d1b88973420366d3.js",
+    "service-worker.js": "/PrachiSharmaCode/CemTest/service-worker.js",
+    "static/css/2.2a86faee.chunk.css.map": "/PrachiSharmaCode/CemTest/static/css/2.2a86faee.chunk.css.map",
+    "static/css/main.e0147863.chunk.css.map": "/PrachiSharmaCode/CemTest/static/css/main.e0147863.chunk.css.map",
+    "static/js/2.ed23f824.chunk.js.LICENSE.txt": "/PrachiSharmaCode/CemTest/static/js/2.ed23f824.chunk.js.LICENSE.txt",
+    "static/media/cemLogo.jpg": "/PrachiSharmaCode/CemTest/static/media/cemLogo.4c63f66c.jpg",
+    "static/media/logo.svg": "/PrachiSharmaCode/CemTest/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3eef7d7c.js",
+    "static/css/2.2a86faee.chunk.css",
+    "static/js/2.ed23f824.chunk.js",
+    "static/css/main.e0147863.chunk.css",
+    "static/js/main.aae7d0ab.chunk.js"
+  ]
+}
