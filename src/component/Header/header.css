@@ -1,0 +1,15 @@
+.bg-light {
+  background-color: white !important;
+}
+
+#contact-link {
+  color: #cc6600 !important;
+}
+
+.nav-link {
+  color: black !important;
+}
+
+.nav-link:hover {
+  color: #ff8000 !important;
+}

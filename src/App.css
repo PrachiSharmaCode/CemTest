@@ -7,6 +7,19 @@
   pointer-events: none;
 }
 
+.btn {
+  background-color: #ff8000 !important;
+  border-color: #cc6600 !important;
+  box-shadow: 5px 5px 5px gray !important;
+}
+
+.btn:hover {
+  background-color: transparent !important;
+  color: black !important;
+  border-color: #cc6600 !important;
+  box-shadow: 0px 0px 0px gray !important;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;

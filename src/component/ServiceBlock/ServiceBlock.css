@@ -1,0 +1,17 @@
+.service-block {
+  background-color: white;
+  width: 25%;
+  padding: 3rem;
+  text-align: center;
+  margin: 1rem 0.5rem 1rem 0.5rem;
+  border-radius: 5%;
+  box-shadow: 5px 5px 5px gray;
+}
+
+.service-heading {
+  color: #ff8000;
+}
+
+.service-description {
+  color: gray;
+}
